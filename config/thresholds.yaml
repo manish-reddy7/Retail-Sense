@@ -1,0 +1,3 @@
+# Calibrate on a validation sweep before using real data.
+disagreement_tau: 0.16
+
